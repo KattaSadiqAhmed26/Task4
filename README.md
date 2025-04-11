@@ -1,6 +1,6 @@
 ****# Dashboard of Ola Sales Finance Data set.****  
 This is Dashboard of Ola Sales where I divide this entire dataset into 5 slides and I created 5 slides linked one slide with other.    
-There are 4 slides where I clearly focus on every thing over months and trends in the Bussiness.  
+There are 5 slides where I clearly focus on every thing over months and trends in the Bussiness.  
 The 1st page is all about overall review of revenue and booking of the rides.   
 The 2nd page is all about the the total revenue and booking and total sales in over all month by the vehicle type sp that we can clearly see the which vehicle is  
 more in trend and demand.
